@@ -8,9 +8,9 @@
         "repo": "atom"
       },
       "branch": "test2",
-      "revision": "b0104b16d358c42b36007468a00d978f95e09be1",
-      "url": "https://github.com/whs-dot-hk/atom/archive/b0104b16d358c42b36007468a00d978f95e09be1.tar.gz",
-      "hash": "098sxw6c2cgzwivp48bcb1yhf012y7p6h99fx8a6wjmali3802s6"
+      "revision": "c0e0d00efa264b6e1da53d8a3318d3ef672270d1",
+      "url": "https://github.com/whs-dot-hk/atom/archive/c0e0d00efa264b6e1da53d8a3318d3ef672270d1.tar.gz",
+      "hash": "035fkbh7cy72k28p93rwg4hp5lf4abp08v8mhpyk51kprc70g7d7"
     },
     "nixpkgs": {
       "type": "Git",
@@ -20,9 +20,9 @@
         "repo": "nixpkgs"
       },
       "branch": "nixpkgs-unstable",
-      "revision": "71a6392e367b08525ee710a93af2e80083b5b3e2",
-      "url": "https://github.com/nixos/nixpkgs/archive/71a6392e367b08525ee710a93af2e80083b5b3e2.tar.gz",
-      "hash": "0584fw44dylcqjwbmdyy2aw4q7mmg6zf5brx9hmrsgsqn0bjyyni"
+      "revision": "4989a246d7a390a859852baddb1013f825435cee",
+      "url": "https://github.com/nixos/nixpkgs/archive/4989a246d7a390a859852baddb1013f825435cee.tar.gz",
+      "hash": "0mdyxfmhgqnyvfv104f6gjvqva7inizv1d6jjshbc532ykj51h4h"
     }
   },
   "version": 3
