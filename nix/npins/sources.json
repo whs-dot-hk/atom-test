@@ -1,0 +1,29 @@
+{
+  "pins": {
+    "atom": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "whs-dot-hk",
+        "repo": "atom"
+      },
+      "branch": "test2",
+      "revision": "b0104b16d358c42b36007468a00d978f95e09be1",
+      "url": "https://github.com/whs-dot-hk/atom/archive/b0104b16d358c42b36007468a00d978f95e09be1.tar.gz",
+      "hash": "098sxw6c2cgzwivp48bcb1yhf012y7p6h99fx8a6wjmali3802s6"
+    },
+    "nixpkgs": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nixos",
+        "repo": "nixpkgs"
+      },
+      "branch": "nixpkgs-unstable",
+      "revision": "71a6392e367b08525ee710a93af2e80083b5b3e2",
+      "url": "https://github.com/nixos/nixpkgs/archive/71a6392e367b08525ee710a93af2e80083b5b3e2.tar.gz",
+      "hash": "0584fw44dylcqjwbmdyy2aw4q7mmg6zf5brx9hmrsgsqn0bjyyni"
+    }
+  },
+  "version": 3
+}
