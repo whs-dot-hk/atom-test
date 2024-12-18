@@ -8,9 +8,9 @@
         "repo": "atom"
       },
       "branch": "test2",
-      "revision": "c0e0d00efa264b6e1da53d8a3318d3ef672270d1",
-      "url": "https://github.com/whs-dot-hk/atom/archive/c0e0d00efa264b6e1da53d8a3318d3ef672270d1.tar.gz",
-      "hash": "035fkbh7cy72k28p93rwg4hp5lf4abp08v8mhpyk51kprc70g7d7"
+      "revision": "eaa216d126859fa0ca056cb6c3cb024b81d0d87e",
+      "url": "https://github.com/whs-dot-hk/atom/archive/eaa216d126859fa0ca056cb6c3cb024b81d0d87e.tar.gz",
+      "hash": "0b8700gw8r6zc7qcidbh16ilpb3v0azx1y49zl96m09b804jsd6l"
     },
     "nixpkgs": {
       "type": "Git",
