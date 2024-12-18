@@ -6,7 +6,7 @@ version = "0.1.0"
 fetcher = "local"
 
 [fetcher.local]
-root = "."
+root = ""
 
 [fetcher.npins]
 root = "nix/npins"
