@@ -19,6 +19,3 @@ args = [{}]
 import = true
 name = "nixpkgs"
 fetcher = "npins"
-
-[std]
-features = ["lib"]
